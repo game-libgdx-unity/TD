@@ -1,0 +1,2358 @@
+fileFormatVersion: 2
+guid: 9d8babfe2a0fdbe42822ccbedd291325
+timeCreated: 1493650540
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Champion_0
+    21300002: Champion_1
+    21300004: Champion_2
+    21300006: Champion_3
+    21300008: Champion_4
+    21300010: Champion_5
+    21300012: Champion_6
+    21300014: Champion_7
+    21300016: Champion_8
+    21300018: Champion_9
+    21300020: Champion_10
+    21300022: Champion_11
+    21300024: Champion_12
+    21300026: Champion_13
+    21300028: Champion_14
+    21300030: Champion_15
+    21300032: Champion_16
+    21300034: Champion_17
+    21300036: Champion_18
+    21300038: Champion_19
+    21300040: Champion_20
+    21300042: Champion_21
+    21300044: Champion_22
+    21300046: Champion_23
+    21300048: Champion_24
+    21300050: Champion_25
+    21300052: Champion_26
+    21300054: Champion_27
+    21300056: Champion_28
+    21300058: Champion_29
+    21300060: Champion_30
+    21300062: Champion_31
+    21300064: Champion_32
+    21300066: Champion_33
+    21300068: Champion_34
+    21300070: Champion_35
+    21300072: Champion_36
+    21300074: Champion_37
+    21300076: Champion_38
+    21300078: Champion_39
+    21300080: Champion_40
+    21300082: Champion_41
+    21300084: Champion_42
+    21300086: Champion_43
+    21300088: Champion_44
+    21300090: Champion_45
+    21300092: Champion_46
+    21300094: Champion_47
+    21300096: Champion_48
+    21300098: Champion_49
+    21300100: Champion_50
+    21300102: Champion_51
+    21300104: Champion_52
+    21300106: Champion_53
+    21300108: Champion_54
+    21300110: Champion_55
+    21300112: Champion_56
+    21300114: Champion_57
+    21300116: Champion_58
+    21300118: Champion_59
+    21300120: Champion_60
+    21300122: Champion_61
+    21300124: Champion_62
+    21300126: Champion_63
+    21300128: Champion_64
+    21300130: Champion_65
+    21300132: Champion_66
+    21300134: Champion_67
+    21300136: Champion_68
+    21300138: Champion_69
+    21300140: Champion_70
+    21300142: Champion_71
+    21300144: Champion_72
+    21300146: Champion_73
+    21300148: Champion_74
+    21300150: Champion_75
+    21300152: Champion_76
+    21300154: Champion_77
+    21300156: Champion_78
+    21300158: Champion_79
+    21300160: Champion_80
+    21300162: Champion_81
+    21300164: Champion_82
+    21300166: Champion_83
+    21300168: Champion_84
+    21300170: Champion_85
+    21300172: Champion_86
+    21300174: Champion_87
+    21300176: Champion_88
+    21300178: Champion_89
+    21300180: Champion_90
+    21300182: Champion_91
+    21300184: Champion_92
+    21300186: Champion_93
+    21300188: Champion_94
+    21300190: Champion_95
+    21300192: Champion_96
+    21300194: Champion_97
+    21300196: Champion_98
+    21300198: Champion_99
+    21300200: Champion_100
+    21300202: Champion_101
+    21300204: Champion_102
+    21300206: Champion_103
+    21300208: Champion_104
+    21300210: Champion_105
+    21300212: Champion_106
+    21300214: Champion_107
+    21300216: Champion_108
+    21300218: Champion_109
+    21300220: Champion_110
+    21300222: Champion_111
+    21300224: Champion_112
+    21300226: Champion_113
+    21300228: Champion_114
+    21300230: Champion_115
+    21300232: Champion_116
+    21300234: Champion_117
+    21300236: Champion_118
+    21300238: Champion_119
+    21300240: Champion_120
+    21300242: Champion_121
+    21300244: Champion_122
+    21300246: Champion_123
+    21300248: Champion_124
+    21300250: Champion_125
+    21300252: Champion_126
+    21300254: Champion_127
+    21300256: Champion_128
+    21300258: Champion_129
+    21300260: Champion_130
+    21300262: Champion_131
+    21300264: Champion_132
+    21300266: Champion_133
+    21300268: Champion_134
+    21300270: Champion_135
+    21300272: Champion_136
+    21300274: Champion_137
+    21300276: Champion_138
+    21300278: Champion_139
+    21300280: Champion_140
+    21300282: Champion_141
+    21300284: Champion_142
+    21300286: Champion_143
+    21300288: Champion_144
+    21300290: Champion_145
+    21300292: Champion_146
+    21300294: Champion_147
+    21300296: Champion_148
+    21300298: Champion_149
+    21300300: Champion_150
+    21300302: Champion_151
+    21300304: Champion_152
+    21300306: Champion_153
+    21300308: Champion_154
+    21300310: Champion_155
+    21300312: Champion_156
+    21300314: Champion_157
+    21300316: Champion_158
+    21300318: Champion_159
+    21300320: Champion_160
+    21300322: Champion_161
+    21300324: Champion_162
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Champion_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1256
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1255
+        width: 90
+        height: 110
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_2
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1254
+        width: 90
+        height: 110
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_3
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1254
+        width: 94
+        height: 103
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_4
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1255
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_5
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1254
+        width: 98
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_6
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1254
+        width: 96
+        height: 102
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_7
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1254
+        width: 97
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_8
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 1254
+        width: 99
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1098
+        width: 100
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_10
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1099
+        width: 94
+        height: 106
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_11
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1102
+        width: 77
+        height: 111
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1102
+        width: 82
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_13
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1102
+        width: 93
+        height: 97
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1100
+        width: 146
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_15
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1099
+        width: 161
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_16
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1099
+        width: 151
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_17
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 1099
+        width: 128
+        height: 89
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_18
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 939
+        width: 108
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 938
+        width: 99
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_20
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 939
+        width: 97
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_21
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 942
+        width: 87
+        height: 97
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_22
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 942
+        width: 87
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_23
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 939
+        width: 95
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_24
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 938
+        width: 133
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_25
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 938
+        width: 121
+        height: 85
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 787
+        width: 112
+        height: 89
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 787
+        width: 105
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_28
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 784
+        width: 95
+        height: 97
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_29
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 782
+        width: 100
+        height: 91
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_30
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 780
+        width: 83
+        height: 86
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_31
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 777
+        width: 99
+        height: 87
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_32
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 767
+        width: 76
+        height: 97
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_33
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 771
+        width: 63
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_34
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 644
+        width: 116
+        height: 84
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 642
+        width: 109
+        height: 83
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_36
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 643
+        width: 104
+        height: 81
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_37
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 645
+        width: 96
+        height: 80
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_38
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 646
+        width: 97
+        height: 68
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_39
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 646
+        width: 107
+        height: 51
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_40
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 648
+        width: 97
+        height: 61
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_41
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 652
+        width: 84
+        height: 41
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_42
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 479
+        width: 104
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_43
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 481
+        width: 105
+        height: 94
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_44
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 483
+        width: 112
+        height: 96
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_45
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 481
+        width: 114
+        height: 91
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_46
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 479
+        width: 104
+        height: 92
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_47
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 478
+        width: 101
+        height: 95
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_48
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 563
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_49
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 565
+        width: 55
+        height: 47
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_50
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 565
+        width: 54
+        height: 49
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_51
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 564
+        width: 53
+        height: 50
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_52
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 563
+        width: 57
+        height: 47
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_53
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 563
+        width: 57
+        height: 46
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_54
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 477
+        width: 58
+        height: 64
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_55
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 518
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_56
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 530
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_57
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 530
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_58
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 530
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_59
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 530
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_60
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 527
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_61
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 530
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_62
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 530
+        width: 7
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_63
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 501
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_64
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_65
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 501
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_66
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_67
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_68
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 501
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_69
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_70
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 501
+        width: 5
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_71
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 501
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_72
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 498
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_73
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 501
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_74
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 501
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_75
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_76
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_77
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 501
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_78
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 501
+        width: 9
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_79
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 501
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_80
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 498
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_81
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 501
+        width: 26
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_82
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 485
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_83
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 485
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_84
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 483
+        width: 6
+        height: 12
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_85
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 485
+        width: 7
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_86
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 485
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_87
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 485
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_88
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 482
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_89
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 485
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_90
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 485
+        width: 4
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_91
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 485
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_92
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 485
+        width: 15
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_93
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 485
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_94
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 485
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_95
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 485
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_96
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 485
+        width: 6
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 336
+        width: 107
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_98
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 336
+        width: 102
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_99
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 335
+        width: 99
+        height: 90
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_100
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 335
+        width: 97
+        height: 89
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_101
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 335
+        width: 97
+        height: 88
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_102
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 332
+        width: 83
+        height: 106
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_103
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 332
+        width: 69
+        height: 114
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_104
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 333
+        width: 55
+        height: 116
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_105
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 386
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_106
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 383
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_107
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 383
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_108
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 386
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_109
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 386
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_110
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 386
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_111
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 383
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_112
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 333
+        width: 49
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_113
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 368
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_114
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 365
+        width: 124
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_115
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 368
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_116
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 368
+        width: 7
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_117
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 368
+        width: 5
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_118
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 352
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_119
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 352
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_120
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 352
+        width: 13
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_121
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 352
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_122
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 349
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_123
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 352
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_124
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 352
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_125
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 352
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_126
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 350
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_127
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 349
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_128
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 352
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_129
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 352
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_130
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 352
+        width: 10
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_131
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 352
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_132
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 352
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_133
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 333
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_134
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_135
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_136
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 336
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_137
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_138
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 333
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_139
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_140
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_141
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_142
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 336
+        width: 4
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_143
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 336
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_144
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 336
+        width: 9
+        height: 10
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_145
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 336
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_146
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 162
+        width: 97
+        height: 108
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_147
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 162
+        width: 103
+        height: 108
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_148
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 162
+        width: 94
+        height: 103
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_149
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 159
+        width: 97
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_150
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 160
+        width: 98
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_151
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 160
+        width: 99
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_152
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 160
+        width: 101
+        height: 98
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_153
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 160
+        width: 101
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_154
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 161
+        width: 98
+        height: 98
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_155
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 8
+        width: 98
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_156
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 97
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_157
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 7
+        width: 99
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_158
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 7
+        width: 98
+        height: 100
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_159
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 7
+        width: 95
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_160
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 7
+        width: 93
+        height: 104
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_161
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 7
+        width: 101
+        height: 99
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Champion_162
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 8
+        width: 102
+        height: 97
+      alignment: 9
+      pivot: {x: 0.25, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: zzz
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

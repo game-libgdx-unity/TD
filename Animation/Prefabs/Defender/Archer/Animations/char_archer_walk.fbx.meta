@@ -1,0 +1,1552 @@
+fileFormatVersion: 2
+guid: 254eeb9fd5ae6664daa77381c76ee416
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: archer_rigging_final:archer_grp
+    100002: archer_rigging_final:archer_rigging_01:archer_body
+    100004: archer_rigging_final:archer_rigging_01:archer_head1
+    100006: archer_rigging_final:archer_rigging_01:arrow
+    100008: archer_rigging_final:archer_rigging_01:bow
+    100010: archer_rigging_final:bounding_box
+    100012: archer_rigging_final:CHEST_BONE_01
+    100014: archer_rigging_final:CHEST_CTRL
+    100016: archer_rigging_final:CLOTH_01_CTRL
+    100018: archer_rigging_final:CLOTH_02_CTRL
+    100020: archer_rigging_final:CLOTH_03_CTRL
+    100022: archer_rigging_final:CLOTH_BONE_01
+    100024: archer_rigging_final:CLOTH_BONE_02
+    100026: archer_rigging_final:CLOTH_BONE_03
+    100028: archer_rigging_final:CLOTH_BONE_04
+    100030: archer_rigging_final:GLOBLE_CTRL
+    100032: archer_rigging_final:HAED_BONE_03
+    100034: archer_rigging_final:HEAD_BONE
+    100036: archer_rigging_final:HEAD_BONE__01
+    100038: archer_rigging_final:HEAD_CTRL
+    100040: archer_rigging_final:HEADGEAR_BONE
+    100042: archer_rigging_final:heel_grp
+    100044: archer_rigging_final:ikHandle1
+    100046: archer_rigging_final:ikHandle2
+    100048: archer_rigging_final:ikHandle3
+    100050: archer_rigging_final:ikHandle4
+    100052: archer_rigging_final:ikHandle5
+    100054: archer_rigging_final:ikHandle6
+    100056: archer_rigging_final:ikHandle7
+    100058: archer_rigging_final:ikHandle8
+    100060: archer_rigging_final:JAW_BONE
+    100062: archer_rigging_final:JAW_CTRL
+    100064: archer_rigging_final:JAW_END_BONE
+    100066: archer_rigging_final:L_ARM_TARGET
+    100068: archer_rigging_final:L_BALL_BONE
+    100070: archer_rigging_final:L_ELBOW_BONE
+    100072: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+    100074: archer_rigging_final:L_EYEBROW_BONE_01
+    100076: archer_rigging_final:L_EYEBROW_BONE_02
+    100078: archer_rigging_final:L_EYEBROW_BONE_03
+    100080: archer_rigging_final:L_EYEBROW_BONE_04
+    100082: archer_rigging_final:L_EYEBROW_BONE_05
+    100084: archer_rigging_final:L_EYEBROW_BONE_06
+    100086: archer_rigging_final:L_FOOR_CTRL
+    100088: archer_rigging_final:L_FOOT_BONE
+    100090: archer_rigging_final:L_foot_grp
+    100092: archer_rigging_final:L_INDEX_01_CTRL
+    100094: archer_rigging_final:L_INDEX_02_CTRL
+    100096: archer_rigging_final:L_INDEX_FINGER_BONE_01
+    100098: archer_rigging_final:L_INDEX_FINGER_BONE_02
+    100100: archer_rigging_final:L_INDEX_FINGER_BONE_02 1
+    100102: archer_rigging_final:L_INDEX_FINGER_BONE_03
+    100104: archer_rigging_final:L_INDEX_FINGER_BONE_03 1
+    100106: archer_rigging_final:L_INDEX_FINGER_BONE_04
+    100108: archer_rigging_final:L_INDEX_FINGER_BONE_05
+    100110: archer_rigging_final:L_INDEX_FINGER_BONE_06
+    100112: archer_rigging_final:L_INDEX_FINGER_BONE_07
+    100114: archer_rigging_final:L_INDEX_FINGER_BONE_08
+    100116: archer_rigging_final:L_LEG_TARGET
+    100118: archer_rigging_final:L_LETTLE_01_CTRL
+    100120: archer_rigging_final:L_LETTLE_02_CTRL
+    100122: archer_rigging_final:L_LITTLE_FINGER_BONE_01
+    100124: archer_rigging_final:L_LITTLE_FINGER_BONE_02
+    100126: archer_rigging_final:L_MIDDLE_LEG_BONE
+    100128: archer_rigging_final:L_PALM_BONE
+    100130: archer_rigging_final:L_PALM_CTRL1
+    100132: archer_rigging_final:L_SHOULDER_BONE
+    100134: archer_rigging_final:L_SHOULDER_CTRL
+    100136: archer_rigging_final:L_THUMB_01
+    100138: archer_rigging_final:L_THUMB_01_CTRL
+    100140: archer_rigging_final:L_THUMB_02
+    100142: archer_rigging_final:L_THUMB_02_CTRL
+    100144: archer_rigging_final:L_THUMB_03
+    100146: archer_rigging_final:L_TOE_BONE
+    100148: archer_rigging_final:L_UPPER_LEG_BONE
+    100150: archer_rigging_final:L_WRIST_BONE
+    100152: archer_rigging_final:L_WRIST_CTRL
+    100154: archer_rigging_final:NECK_BONE_01
+    100156: archer_rigging_final:NECK_CTRL
+    100158: archer_rigging_final:nurbsCircle33
+    100160: archer_rigging_final:nurbsCircle34
+    100162: archer_rigging_final:nurbsCircle35
+    100164: archer_rigging_final:nurbsCircle36
+    100166: archer_rigging_final:nurbsCircle37
+    100168: archer_rigging_final:nurbsCircle38
+    100170: archer_rigging_final:R_ARM_TARGET
+    100172: archer_rigging_final:R_BALL_BONE1
+    100174: archer_rigging_final:R_ELBOW_BONE
+    100176: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+    100178: archer_rigging_final:R_FOOT_BONE1
+    100180: archer_rigging_final:R_FOOT_CTRL
+    100182: archer_rigging_final:R_foot_grp
+    100184: archer_rigging_final:R_heel_grp
+    100186: archer_rigging_final:R_INDEX_01_CTRL
+    100188: archer_rigging_final:R_INDEX_02_CTRL
+    100190: archer_rigging_final:R_LEG_TARGET
+    100192: archer_rigging_final:R_LETTLE_01_CTRL
+    100194: archer_rigging_final:R_LETTLE_02_CTRL
+    100196: archer_rigging_final:R_MIDDLE_LEG_BONE1
+    100198: archer_rigging_final:R_PALM_BONE
+    100200: archer_rigging_final:R_PALM_CTRL
+    100202: archer_rigging_final:R_SHOULDER_BONE
+    100204: archer_rigging_final:R_SHOULDR_CTRL
+    100206: archer_rigging_final:R_THUMB_01
+    100208: archer_rigging_final:R_THUMB_01_CTRL
+    100210: archer_rigging_final:R_THUMB_02
+    100212: archer_rigging_final:R_THUMB_02_CTRL
+    100214: archer_rigging_final:R_THUMB_03
+    100216: archer_rigging_final:R_TOE_BONE1
+    100218: archer_rigging_final:R_toe_grp
+    100220: archer_rigging_final:R_UPPER_LEG_BONE1
+    100222: archer_rigging_final:R_WRIST_BONE
+    100224: archer_rigging_final:R_WRIST_CTRL
+    100226: archer_rigging_final:ROOT_BONE
+    100228: archer_rigging_final:ROOT_CTRL
+    100230: archer_rigging_final:SPINE_01_CTRL
+    100232: archer_rigging_final:SPINE_02_CTRL
+    100234: archer_rigging_final:SPINE_BONE_01
+    100236: archer_rigging_final:SPINE_BONE_01 1
+    100238: archer_rigging_final:toe_grp
+    100240: //RootNode
+    400000: archer_rigging_final:archer_grp
+    400002: archer_rigging_final:archer_rigging_01:archer_body
+    400004: archer_rigging_final:archer_rigging_01:archer_head1
+    400006: archer_rigging_final:archer_rigging_01:arrow
+    400008: archer_rigging_final:archer_rigging_01:bow
+    400010: archer_rigging_final:bounding_box
+    400012: archer_rigging_final:CHEST_BONE_01
+    400014: archer_rigging_final:CHEST_CTRL
+    400016: archer_rigging_final:CLOTH_01_CTRL
+    400018: archer_rigging_final:CLOTH_02_CTRL
+    400020: archer_rigging_final:CLOTH_03_CTRL
+    400022: archer_rigging_final:CLOTH_BONE_01
+    400024: archer_rigging_final:CLOTH_BONE_02
+    400026: archer_rigging_final:CLOTH_BONE_03
+    400028: archer_rigging_final:CLOTH_BONE_04
+    400030: archer_rigging_final:GLOBLE_CTRL
+    400032: archer_rigging_final:HAED_BONE_03
+    400034: archer_rigging_final:HEAD_BONE
+    400036: archer_rigging_final:HEAD_BONE__01
+    400038: archer_rigging_final:HEAD_CTRL
+    400040: archer_rigging_final:HEADGEAR_BONE
+    400042: archer_rigging_final:heel_grp
+    400044: archer_rigging_final:ikHandle1
+    400046: archer_rigging_final:ikHandle2
+    400048: archer_rigging_final:ikHandle3
+    400050: archer_rigging_final:ikHandle4
+    400052: archer_rigging_final:ikHandle5
+    400054: archer_rigging_final:ikHandle6
+    400056: archer_rigging_final:ikHandle7
+    400058: archer_rigging_final:ikHandle8
+    400060: archer_rigging_final:JAW_BONE
+    400062: archer_rigging_final:JAW_CTRL
+    400064: archer_rigging_final:JAW_END_BONE
+    400066: archer_rigging_final:L_ARM_TARGET
+    400068: archer_rigging_final:L_BALL_BONE
+    400070: archer_rigging_final:L_ELBOW_BONE
+    400072: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+    400074: archer_rigging_final:L_EYEBROW_BONE_01
+    400076: archer_rigging_final:L_EYEBROW_BONE_02
+    400078: archer_rigging_final:L_EYEBROW_BONE_03
+    400080: archer_rigging_final:L_EYEBROW_BONE_04
+    400082: archer_rigging_final:L_EYEBROW_BONE_05
+    400084: archer_rigging_final:L_EYEBROW_BONE_06
+    400086: archer_rigging_final:L_FOOR_CTRL
+    400088: archer_rigging_final:L_FOOT_BONE
+    400090: archer_rigging_final:L_foot_grp
+    400092: archer_rigging_final:L_INDEX_01_CTRL
+    400094: archer_rigging_final:L_INDEX_02_CTRL
+    400096: archer_rigging_final:L_INDEX_FINGER_BONE_01
+    400098: archer_rigging_final:L_INDEX_FINGER_BONE_02
+    400100: archer_rigging_final:L_INDEX_FINGER_BONE_02 1
+    400102: archer_rigging_final:L_INDEX_FINGER_BONE_03
+    400104: archer_rigging_final:L_INDEX_FINGER_BONE_03 1
+    400106: archer_rigging_final:L_INDEX_FINGER_BONE_04
+    400108: archer_rigging_final:L_INDEX_FINGER_BONE_05
+    400110: archer_rigging_final:L_INDEX_FINGER_BONE_06
+    400112: archer_rigging_final:L_INDEX_FINGER_BONE_07
+    400114: archer_rigging_final:L_INDEX_FINGER_BONE_08
+    400116: archer_rigging_final:L_LEG_TARGET
+    400118: archer_rigging_final:L_LETTLE_01_CTRL
+    400120: archer_rigging_final:L_LETTLE_02_CTRL
+    400122: archer_rigging_final:L_LITTLE_FINGER_BONE_01
+    400124: archer_rigging_final:L_LITTLE_FINGER_BONE_02
+    400126: archer_rigging_final:L_MIDDLE_LEG_BONE
+    400128: archer_rigging_final:L_PALM_BONE
+    400130: archer_rigging_final:L_PALM_CTRL1
+    400132: archer_rigging_final:L_SHOULDER_BONE
+    400134: archer_rigging_final:L_SHOULDER_CTRL
+    400136: archer_rigging_final:L_THUMB_01
+    400138: archer_rigging_final:L_THUMB_01_CTRL
+    400140: archer_rigging_final:L_THUMB_02
+    400142: archer_rigging_final:L_THUMB_02_CTRL
+    400144: archer_rigging_final:L_THUMB_03
+    400146: archer_rigging_final:L_TOE_BONE
+    400148: archer_rigging_final:L_UPPER_LEG_BONE
+    400150: archer_rigging_final:L_WRIST_BONE
+    400152: archer_rigging_final:L_WRIST_CTRL
+    400154: archer_rigging_final:NECK_BONE_01
+    400156: archer_rigging_final:NECK_CTRL
+    400158: archer_rigging_final:nurbsCircle33
+    400160: archer_rigging_final:nurbsCircle34
+    400162: archer_rigging_final:nurbsCircle35
+    400164: archer_rigging_final:nurbsCircle36
+    400166: archer_rigging_final:nurbsCircle37
+    400168: archer_rigging_final:nurbsCircle38
+    400170: archer_rigging_final:R_ARM_TARGET
+    400172: archer_rigging_final:R_BALL_BONE1
+    400174: archer_rigging_final:R_ELBOW_BONE
+    400176: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+    400178: archer_rigging_final:R_FOOT_BONE1
+    400180: archer_rigging_final:R_FOOT_CTRL
+    400182: archer_rigging_final:R_foot_grp
+    400184: archer_rigging_final:R_heel_grp
+    400186: archer_rigging_final:R_INDEX_01_CTRL
+    400188: archer_rigging_final:R_INDEX_02_CTRL
+    400190: archer_rigging_final:R_LEG_TARGET
+    400192: archer_rigging_final:R_LETTLE_01_CTRL
+    400194: archer_rigging_final:R_LETTLE_02_CTRL
+    400196: archer_rigging_final:R_MIDDLE_LEG_BONE1
+    400198: archer_rigging_final:R_PALM_BONE
+    400200: archer_rigging_final:R_PALM_CTRL
+    400202: archer_rigging_final:R_SHOULDER_BONE
+    400204: archer_rigging_final:R_SHOULDR_CTRL
+    400206: archer_rigging_final:R_THUMB_01
+    400208: archer_rigging_final:R_THUMB_01_CTRL
+    400210: archer_rigging_final:R_THUMB_02
+    400212: archer_rigging_final:R_THUMB_02_CTRL
+    400214: archer_rigging_final:R_THUMB_03
+    400216: archer_rigging_final:R_TOE_BONE1
+    400218: archer_rigging_final:R_toe_grp
+    400220: archer_rigging_final:R_UPPER_LEG_BONE1
+    400222: archer_rigging_final:R_WRIST_BONE
+    400224: archer_rigging_final:R_WRIST_CTRL
+    400226: archer_rigging_final:ROOT_BONE
+    400228: archer_rigging_final:ROOT_CTRL
+    400230: archer_rigging_final:SPINE_01_CTRL
+    400232: archer_rigging_final:SPINE_02_CTRL
+    400234: archer_rigging_final:SPINE_BONE_01
+    400236: archer_rigging_final:SPINE_BONE_01 1
+    400238: archer_rigging_final:toe_grp
+    400240: //RootNode
+    2300000: archer_rigging_final:archer_rigging_01:archer_head1
+    2300002: archer_rigging_final:archer_rigging_01:arrow
+    2300004: archer_rigging_final:archer_rigging_01:bow
+    2300006: archer_rigging_final:bounding_box
+    3300000: archer_rigging_final:archer_rigging_01:archer_head1
+    3300002: archer_rigging_final:archer_rigging_01:arrow
+    3300004: archer_rigging_final:archer_rigging_01:bow
+    3300006: archer_rigging_final:bounding_box
+    4300000: archer_rigging_final:bounding_box
+    4300002: archer_rigging_final:archer_rigging_01:bow
+    4300004: archer_rigging_final:archer_rigging_01:arrow
+    4300006: archer_rigging_final:archer_rigging_01:archer_body
+    4300008: archer_rigging_final:archer_rigging_01:archer_head1
+    7400000: Run
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: archer_rigging_final:archer_rigging_01:archer_body
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file\nchar_archer_walk\nClip
+      'Take 001' has import animation warnings that might lower retargeting quality:\nNote:
+      Activate translation DOF on avatar to improve retargeting quality.\n\t'archer_rigging_final:SPINE_BONE_01'
+      has translation animation that will be discarded.\n\t'archer_rigging_final:SPINE_BONE_01'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'archer_rigging_final:SPINE_BONE_01
+      1' has translation animation that will be discarded.\n\t'archer_rigging_final:CHEST_BONE_01'
+      has translation animation that will be discarded.\n\t'archer_rigging_final:HEAD_BONE'
+      has translation animation that will be discarded.\n\t'archer_rigging_final:R_SHOULDER_BONE'
+      has translation animation that will be discarded.\n\t'archer_rigging_final:L_SHOULDER_BONE'
+      has translation animation that will be discarded.\n\t'archer_rigging_final:L_BALL_BONE'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'archer_rigging_final:R_BALL_BONE1'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 19
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: archer_rigging_final:archer_grp
+        weight: 1
+      - path: archer_rigging_final:archer_grp/archer_rigging_final:archer_rigging_01:archer_body
+        weight: 1
+      - path: archer_rigging_final:archer_grp/archer_rigging_final:archer_rigging_01:archer_head1
+        weight: 1
+      - path: archer_rigging_final:archer_rigging_01:arrow
+        weight: 1
+      - path: archer_rigging_final:archer_rigging_01:bow
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp/archer_rigging_final:heel_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp/archer_rigging_final:heel_grp/archer_rigging_final:ikHandle4
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp/archer_rigging_final:ikHandle5
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp/archer_rigging_final:toe_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:L_FOOR_CTRL/archer_rigging_final:L_foot_grp/archer_rigging_final:toe_grp/archer_rigging_final:ikHandle6
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp/archer_rigging_final:ikHandle7
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp/archer_rigging_final:R_heel_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp/archer_rigging_final:R_heel_grp/archer_rigging_final:ikHandle3
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp/archer_rigging_final:R_toe_grp
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:R_FOOT_CTRL/archer_rigging_final:R_foot_grp/archer_rigging_final:R_toe_grp/archer_rigging_final:ikHandle8
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:CLOTH_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:CLOTH_01_CTRL/archer_rigging_final:CLOTH_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:CLOTH_01_CTRL/archer_rigging_final:CLOTH_02_CTRL/archer_rigging_final:CLOTH_03_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_LEG_TARGET
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_ARM_TARGET
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_INDEX_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_INDEX_01_CTRL/archer_rigging_final:L_INDEX_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_LETTLE_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_LETTLE_01_CTRL/archer_rigging_final:L_LETTLE_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_THUMB_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:L_WRIST_CTRL/archer_rigging_final:L_PALM_CTRL1/archer_rigging_final:L_THUMB_01_CTRL/archer_rigging_final:L_THUMB_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_LEG_TARGET
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_ARM_TARGET
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_INDEX_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_INDEX_01_CTRL/archer_rigging_final:R_INDEX_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_LETTLE_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_LETTLE_01_CTRL/archer_rigging_final:R_LETTLE_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_THUMB_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:R_WRIST_CTRL/archer_rigging_final:R_PALM_CTRL/archer_rigging_final:R_THUMB_01_CTRL/archer_rigging_final:R_THUMB_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:L_SHOULDER_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:JAW_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle33
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle34
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle35
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle36
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle37
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:NECK_CTRL/archer_rigging_final:HEAD_CTRL/archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL/archer_rigging_final:nurbsCircle38
+        weight: 1
+      - path: archer_rigging_final:GLOBLE_CTRL/archer_rigging_final:ROOT_CTRL/archer_rigging_final:SPINE_01_CTRL/archer_rigging_final:SPINE_02_CTRL/archer_rigging_final:CHEST_CTRL/archer_rigging_final:R_SHOULDR_CTRL
+        weight: 1
+      - path: archer_rigging_final:ikHandle1
+        weight: 1
+      - path: archer_rigging_final:ikHandle2
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:CLOTH_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:CLOTH_BONE_01/archer_rigging_final:CLOTH_BONE_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:CLOTH_BONE_01/archer_rigging_final:CLOTH_BONE_02/archer_rigging_final:CLOTH_BONE_03
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:CLOTH_BONE_01/archer_rigging_final:CLOTH_BONE_02/archer_rigging_final:CLOTH_BONE_03/archer_rigging_final:CLOTH_BONE_04
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:L_UPPER_LEG_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:L_UPPER_LEG_BONE/archer_rigging_final:L_MIDDLE_LEG_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:L_UPPER_LEG_BONE/archer_rigging_final:L_MIDDLE_LEG_BONE/archer_rigging_final:L_FOOT_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:L_UPPER_LEG_BONE/archer_rigging_final:L_MIDDLE_LEG_BONE/archer_rigging_final:L_FOOT_BONE/archer_rigging_final:L_BALL_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:L_UPPER_LEG_BONE/archer_rigging_final:L_MIDDLE_LEG_BONE/archer_rigging_final:L_FOOT_BONE/archer_rigging_final:L_BALL_BONE/archer_rigging_final:L_TOE_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:R_UPPER_LEG_BONE1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:R_UPPER_LEG_BONE1/archer_rigging_final:R_MIDDLE_LEG_BONE1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:R_UPPER_LEG_BONE1/archer_rigging_final:R_MIDDLE_LEG_BONE1/archer_rigging_final:R_FOOT_BONE1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:R_UPPER_LEG_BONE1/archer_rigging_final:R_MIDDLE_LEG_BONE1/archer_rigging_final:R_FOOT_BONE1/archer_rigging_final:R_BALL_BONE1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:R_UPPER_LEG_BONE1/archer_rigging_final:R_MIDDLE_LEG_BONE1/archer_rigging_final:R_FOOT_BONE1/archer_rigging_final:R_BALL_BONE1/archer_rigging_final:R_TOE_BONE1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_01/archer_rigging_final:L_INDEX_FINGER_BONE_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_01/archer_rigging_final:L_INDEX_FINGER_BONE_02/archer_rigging_final:L_INDEX_FINGER_BONE_03
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_01/archer_rigging_final:L_INDEX_FINGER_BONE_02
+          1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_01/archer_rigging_final:L_INDEX_FINGER_BONE_02
+          1/archer_rigging_final:L_INDEX_FINGER_BONE_03 1
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_THUMB_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_THUMB_01/archer_rigging_final:L_THUMB_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:L_SHOULDER_BONE/archer_rigging_final:L_ELBOW_BONE/archer_rigging_final:L_WRIST_BONE/archer_rigging_final:L_PALM_BONE/archer_rigging_final:L_THUMB_01/archer_rigging_final:L_THUMB_02/archer_rigging_final:L_THUMB_03
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:HAED_BONE_03
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:HAED_BONE_03/archer_rigging_final:JAW_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:HAED_BONE_03/archer_rigging_final:JAW_BONE/archer_rigging_final:JAW_END_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:HEADGEAR_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_01/archer_rigging_final:L_EYEBROW_BONE_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_01/archer_rigging_final:L_EYEBROW_BONE_02/archer_rigging_final:L_EYEBROW_BONE_03
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_04
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_04/archer_rigging_final:L_EYEBROW_BONE_05
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:NECK_BONE_01/archer_rigging_final:HEAD_BONE/archer_rigging_final:HEAD_BONE__01/archer_rigging_final:L_EYEBROW_BONE_04/archer_rigging_final:L_EYEBROW_BONE_05/archer_rigging_final:L_EYEBROW_BONE_06
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_04
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_04/archer_rigging_final:L_INDEX_FINGER_BONE_05
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_INDEX_FINGER_BONE_04/archer_rigging_final:L_INDEX_FINGER_BONE_05/archer_rigging_final:L_INDEX_FINGER_BONE_06
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_02/archer_rigging_final:L_INDEX_FINGER_BONE_07
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:L_LITTLE_FINGER_BONE_02/archer_rigging_final:L_INDEX_FINGER_BONE_07/archer_rigging_final:L_INDEX_FINGER_BONE_08
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:R_THUMB_01
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:R_THUMB_01/archer_rigging_final:R_THUMB_02
+        weight: 1
+      - path: archer_rigging_final:ROOT_BONE/archer_rigging_final:SPINE_BONE_01/archer_rigging_final:SPINE_BONE_01
+          1/archer_rigging_final:CHEST_BONE_01/archer_rigging_final:R_SHOULDER_BONE/archer_rigging_final:R_ELBOW_BONE/archer_rigging_final:R_WRIST_BONE/archer_rigging_final:R_PALM_BONE/archer_rigging_final:R_THUMB_01/archer_rigging_final:R_THUMB_02/archer_rigging_final:R_THUMB_03
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: archer_rigging_final:ROOT_BONE
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_UPPER_LEG_BONE
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_UPPER_LEG_BONE1
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_MIDDLE_LEG_BONE
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_MIDDLE_LEG_BONE1
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_FOOT_BONE
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_FOOT_BONE1
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:SPINE_BONE_01 1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:CHEST_BONE_01
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:NECK_BONE_01
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:HEAD_BONE
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_SHOULDER_BONE
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_SHOULDER_BONE
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_ELBOW_BONE
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_ELBOW_BONE
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_WRIST_BONE
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_WRIST_BONE
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_TOE_BONE
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_TOE_BONE1
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_01
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_02
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_03
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_THUMB_01
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_THUMB_02
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_THUMB_03
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_LITTLE_FINGER_BONE_01
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_02 1
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_03 1
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_04
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_05
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_06
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_THUMB_01
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_THUMB_02
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:R_THUMB_03
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_LITTLE_FINGER_BONE_02
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_07
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: archer_rigging_final:L_INDEX_FINGER_BONE_08
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: char_archer_walk(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:archer_grp
+      parentName: char_archer_walk(Clone)
+      position: {x: 0.002317047, y: 0.413877, z: -0.036837287}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 0.7688642, y: 0.7688642, z: 0.7688642}
+    - name: archer_rigging_final:archer_rigging_01:archer_body
+      parentName: archer_rigging_final:archer_grp
+      position: {x: -0.000040512085, y: -0.5472726, z: 0.006005802}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:archer_rigging_01:archer_head1
+      parentName: archer_rigging_final:archer_grp
+      position: {x: 0.011237221, y: 0.11506936, z: 0.28613096}
+      rotation: {x: 0.022975057, y: -0.034076944, z: -0.040168785, w: 0.99834734}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:archer_rigging_01:arrow
+      parentName: char_archer_walk(Clone)
+      position: {x: -0.16126877, y: 0.20809995, z: -0.052444663}
+      rotation: {x: -0.48508593, y: 0.24913932, z: 0.80130076, w: -0.24604556}
+      scale: {x: 0.946329, y: 0.946329, z: 2.643164}
+    - name: archer_rigging_final:archer_rigging_01:bow
+      parentName: char_archer_walk(Clone)
+      position: {x: 0.09995238, y: 0.19876924, z: 0.19088104}
+      rotation: {x: -0.3893231, y: 0.68436766, z: -0.36201358, w: -0.49901366}
+      scale: {x: 0.895067, y: 0.895067, z: 2.499985}
+    - name: archer_rigging_final:GLOBLE_CTRL
+      parentName: char_archer_walk(Clone)
+      position: {x: 0.000448993, y: 0, z: -0.00527754}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_FOOR_CTRL
+      parentName: archer_rigging_final:GLOBLE_CTRL
+      position: {x: 0.022561545, y: 0.00083995296, z: -0.13069373}
+      rotation: {x: 0, y: 0.18627675, z: -0, w: 0.98249733}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_foot_grp
+      parentName: archer_rigging_final:L_FOOR_CTRL
+      position: {x: -0.0041114693, y: 0.009515783, z: 0.012193878}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:heel_grp
+      parentName: archer_rigging_final:L_foot_grp
+      position: {x: -0.0009068496, y: 0.009314348, z: 0.04998778}
+      rotation: {x: 0.19267243, y: -0, z: -0, w: 0.98126316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle4
+      parentName: archer_rigging_final:heel_grp
+      position: {x: 0.00020322799, y: -0.008333796, z: -0.04944986}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle5
+      parentName: archer_rigging_final:L_foot_grp
+      position: {x: -0.0007036209, y: 0.009390613, z: 0.05000886}
+      rotation: {x: -0.059464596, y: 0.704602, z: -0.059464596, w: 0.704602}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:toe_grp
+      parentName: archer_rigging_final:L_foot_grp
+      position: {x: -0.0005579194, y: 0.009476206, z: 0.04985624}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle6
+      parentName: archer_rigging_final:toe_grp
+      position: {x: -0.00014569759, y: -0.014432167, z: 0.029835183}
+      rotation: {x: 0.15783776, y: 0.6892657, z: 0.15783776, w: 0.6892657}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_FOOT_CTRL
+      parentName: archer_rigging_final:GLOBLE_CTRL
+      position: {x: -0.02184905, y: -0.0034471424, z: 0.074363545}
+      rotation: {x: -0.21739642, y: -0.03478382, z: 0.054770872, w: 0.9739246}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_foot_grp
+      parentName: archer_rigging_final:R_FOOT_CTRL
+      position: {x: 0.00068589166, y: 0.010629008, z: 0.01339482}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle7
+      parentName: archer_rigging_final:R_foot_grp
+      position: {x: 0.000011501312, y: 0.008636362, z: 0.05187517}
+      rotation: {x: 0.704602, y: 0.059464607, z: 0.70460206, w: 0.05946461}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_heel_grp
+      parentName: archer_rigging_final:R_foot_grp
+      position: {x: 0.000016190266, y: 0.009065926, z: 0.051864028}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle3
+      parentName: archer_rigging_final:R_heel_grp
+      position: {x: -0.0000046825407, y: -0.008839565, z: -0.049459815}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_toe_grp
+      parentName: archer_rigging_final:R_foot_grp
+      position: {x: 0.00005190399, y: 0.0086061815, z: 0.05199974}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle8
+      parentName: archer_rigging_final:R_toe_grp
+      position: {x: -0.00004040718, y: -0.014316337, z: 0.029557971}
+      rotation: {x: 0.68926567, y: -0.15783775, z: 0.6892658, w: -0.15783778}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ROOT_CTRL
+      parentName: archer_rigging_final:GLOBLE_CTRL
+      position: {x: -0.0011547433, y: 0.13077675, z: -0.0006361508}
+      rotation: {x: 0.086382434, y: 0.16628827, z: 0.011881068, w: 0.98221445}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:CLOTH_01_CTRL
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: 0.00025640312, y: 0.02032276, z: 0.034954302}
+      rotation: {x: -0.15136145, y: 0, z: -0, w: 0.9884785}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:CLOTH_02_CTRL
+      parentName: archer_rigging_final:CLOTH_01_CTRL
+      position: {x: -1.9721522e-33, y: -0.033629898, z: -0.0014130203}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:CLOTH_03_CTRL
+      parentName: archer_rigging_final:CLOTH_02_CTRL
+      position: {x: -4.3967623e-18, y: -0.032499485, z: -0.001413021}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_LEG_TARGET
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: 0.033558916, y: -0.01615004, z: 0.14557624}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_WRIST_CTRL
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: 0.05776017, y: 0.109976426, z: 0.22554252}
+      rotation: {x: 0.45935726, y: 0.7661691, z: 0.07351359, w: -0.443364}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_ARM_TARGET
+      parentName: archer_rigging_final:L_WRIST_CTRL
+      position: {x: -0.0022742557, y: 0.056153674, z: -0.18192175}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_PALM_CTRL1
+      parentName: archer_rigging_final:L_WRIST_CTRL
+      position: {x: 0.024282133, y: -0.049481075, z: 0.004001666}
+      rotation: {x: 0, y: -0, z: -0.1828257, w: 0.98314536}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_INDEX_01_CTRL
+      parentName: archer_rigging_final:L_PALM_CTRL1
+      position: {x: 0.010433177, y: -0.013080632, z: 0.016809557}
+      rotation: {x: 0, y: 0, z: -0.7823118, w: 0.6228871}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_INDEX_02_CTRL
+      parentName: archer_rigging_final:L_INDEX_01_CTRL
+      position: {x: 0.01073817, y: -0.027685143, z: 0.0026052748}
+      rotation: {x: 0, y: -0, z: -0.5703233, w: 0.8214203}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_LETTLE_01_CTRL
+      parentName: archer_rigging_final:L_PALM_CTRL1
+      position: {x: 0.012354187, y: -0.013511683, z: -0.013382233}
+      rotation: {x: 0, y: 0, z: -0.74530405, w: 0.66672474}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_LETTLE_02_CTRL
+      parentName: archer_rigging_final:L_LETTLE_01_CTRL
+      position: {x: 0.010999547, y: -0.023399457, z: -0.005205584}
+      rotation: {x: 0, y: 0, z: -0.74530405, w: 0.66672474}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_THUMB_01_CTRL
+      parentName: archer_rigging_final:L_PALM_CTRL1
+      position: {x: -0.015739739, y: 0.025734143, z: 0.04529649}
+      rotation: {x: 0.056528434, y: -0.38548177, z: -0.124526076, w: 0.9125248}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_THUMB_02_CTRL
+      parentName: archer_rigging_final:L_THUMB_01_CTRL
+      position: {x: 0.0074675414, y: -0.031641163, z: 0.010263279}
+      rotation: {x: 0.061960757, y: -0.27069804, z: -0.36661816, w: 0.8879609}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_LEG_TARGET
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: -0.08644078, y: -0.010784249, z: 0.14042874}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_WRIST_CTRL
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: -0.1260244, y: 0.103787236, z: -0.10685908}
+      rotation: {x: 0.10319857, y: 0.06051674, z: -0.038425904, w: 0.99207425}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_ARM_TARGET
+      parentName: archer_rigging_final:R_WRIST_CTRL
+      position: {x: -0.019619154, y: 0.071380034, z: -0.15953457}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_PALM_CTRL
+      parentName: archer_rigging_final:R_WRIST_CTRL
+      position: {x: -0.024281995, y: -0.049482003, z: 0.0040016}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_INDEX_01_CTRL
+      parentName: archer_rigging_final:R_PALM_CTRL
+      position: {x: -0.010433005, y: -0.013079999, z: 0.0168096}
+      rotation: {x: 0, y: 0, z: 0.38578725, w: 0.9225878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_INDEX_02_CTRL
+      parentName: archer_rigging_final:R_INDEX_01_CTRL
+      position: {x: -0.010737999, y: -0.027685, z: 0.0026052701}
+      rotation: {x: 0, y: 0, z: 0.5757564, w: 0.8176213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_LETTLE_01_CTRL
+      parentName: archer_rigging_final:R_PALM_CTRL
+      position: {x: -0.012354004, y: -0.013510999, z: -0.0133822}
+      rotation: {x: 0, y: 0, z: 0.4575952, w: 0.8891607}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_LETTLE_02_CTRL
+      parentName: archer_rigging_final:R_LETTLE_01_CTRL
+      position: {x: -0.010999, y: -0.0234, z: -0.0052056}
+      rotation: {x: 0, y: 0, z: 0.5757564, w: 0.8176213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_THUMB_01_CTRL
+      parentName: archer_rigging_final:R_PALM_CTRL
+      position: {x: 0.015739994, y: 0.025734998, z: 0.0452965}
+      rotation: {x: 0.11300979, y: 0.3620026, z: 0.16122918, w: 0.9111466}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_THUMB_02_CTRL
+      parentName: archer_rigging_final:R_THUMB_01_CTRL
+      position: {x: -0.007468, y: -0.031642, z: 0.0102633}
+      rotation: {x: 0.046540815, y: -0.013026209, z: 0.038455863, w: 0.9980909}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:SPINE_01_CTRL
+      parentName: archer_rigging_final:ROOT_CTRL
+      position: {x: -0, y: 0.053897567, z: 0.008468318}
+      rotation: {x: 0.27237144, y: -0.082667515, z: 0.03785568, w: 0.95788664}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:SPINE_02_CTRL
+      parentName: archer_rigging_final:SPINE_01_CTRL
+      position: {x: 1.3877787e-19, y: 0.047895744, z: 0.005919698}
+      rotation: {x: 0.08592936, y: -0.12702969, z: 0.046067864, w: 0.9870954}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:CHEST_CTRL
+      parentName: archer_rigging_final:SPINE_02_CTRL
+      position: {x: -2.081668e-18, y: 0.05865883, z: -0.011839396}
+      rotation: {x: -0.006151216, y: -0.050448414, z: 0.024608895, w: 0.9984045}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_SHOULDER_CTRL
+      parentName: archer_rigging_final:CHEST_CTRL
+      position: {x: 0.0811475, y: 0.024922265, z: -0.018717794}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:NECK_CTRL
+      parentName: archer_rigging_final:CHEST_CTRL
+      position: {x: 0.003445966, y: 0.07310632, z: 0.0007881427}
+      rotation: {x: 0.23231696, y: -0.0021675867, z: -0.040564924, w: 0.97179145}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:HEAD_CTRL
+      parentName: archer_rigging_final:NECK_CTRL
+      position: {x: -0.0004184036, y: 0.017456876, z: -0.0019382106}
+      rotation: {x: -0.6815139, y: 0.07583201, z: 0.028833214, w: 0.72729427}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:JAW_CTRL
+      parentName: archer_rigging_final:HEAD_CTRL
+      position: {x: 1.8422763e-17, y: 0.08778129, z: 0.035285864}
+      rotation: {x: 0.14269286, y: -0, z: -0, w: 0.989767}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+      parentName: archer_rigging_final:HEAD_CTRL
+      position: {x: 0.062357876, y: 0.22997959, z: 0.16806524}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle33
+      parentName: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+      position: {x: -0.048562814, y: 0.0028252052, z: -0.020488434}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle34
+      parentName: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+      position: {x: -0.00814676, y: 0.0018642795, z: -0.02393818}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle35
+      parentName: archer_rigging_final:L_EYE_BROE_GLOBLE_CTRL
+      position: {x: 0.030326286, y: 0.002315715, z: -0.044530958}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+      parentName: archer_rigging_final:HEAD_CTRL
+      position: {x: -0.05155526, y: 0.2496545, z: 0.16756983}
+      rotation: {x: 0, y: -0, z: -0.042600628, w: 0.99909216}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle36
+      parentName: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+      position: {x: -0.040622763, y: -0.0051933825, z: -0.044808846}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle37
+      parentName: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+      position: {x: -0.00047447687, y: -0.0007246284, z: -0.024049217}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:nurbsCircle38
+      parentName: archer_rigging_final:R_EYE_BROE_GLOBLE_CTRL
+      position: {x: 0.038763624, y: -0.009684579, z: -0.020147245}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:R_SHOULDR_CTRL
+      parentName: archer_rigging_final:CHEST_CTRL
+      position: {x: -0.08431925, y: 0.025863538, z: -0.04811015}
+      rotation: {x: 0, y: -0, z: -0.049253892, w: 0.9987863}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle1
+      parentName: char_archer_walk(Clone)
+      position: {x: -0.15429172, y: 0.24413483, z: -0.046337724}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ikHandle2
+      parentName: char_archer_walk(Clone)
+      position: {x: 0.12857546, y: 0.20470674, z: 0.20413679}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:ROOT_BONE
+      parentName: char_archer_walk(Clone)
+      position: {x: -0.00070575025, y: 0.16408245, z: -0.0059136916}
+      rotation: {x: 0.4103114, y: -0.53686124, z: -0.44273096, w: 0.5894183}
+      scale: {x: 1.0000004, y: 1, z: 1}
+    - name: archer_rigging_final:SPINE_BONE_01
+      parentName: archer_rigging_final:ROOT_BONE
+      position: {x: -0.054558776, y: 4.4408918e-17, z: 6.661338e-18}
+      rotation: {x: -0, y: -0, z: -0.016435578, w: 0.99986494}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000005}
+    - name: archer_rigging_final:SPINE_BONE_01 1
+      parentName: archer_rigging_final:SPINE_BONE_01
+      position: {x: -0.048260182, y: 0, z: -1.11022296e-17}
+      rotation: {x: 0.987057, y: -0.16037014, z: 0.000000030288113, w: 0.000000029308476}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000007}
+    - name: archer_rigging_final:CHEST_BONE_01
+      parentName: archer_rigging_final:SPINE_BONE_01 1
+      position: {x: -0.059841707, y: -5.3290704e-17, z: 4.7739588e-17}
+      rotation: {x: 0.000000018865473, y: -0.000000063891406, z: -0.001616135, w: 0.9999987}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: archer_rigging_final:NECK_BONE_01
+      parentName: archer_rigging_final:CHEST_BONE_01
+      position: {x: -0.071554184, y: 0.015005109, z: -0.003445966}
+      rotation: {x: -0.000000031053645, y: 0.000000005467935, z: -0.058015894, w: 0.99831563}
+      scale: {x: 1.0000008, y: 1.0000017, z: 1.0000008}
+    - name: archer_rigging_final:HEAD_BONE
+      parentName: archer_rigging_final:NECK_BONE_01
+      position: {x: -0.017555846, y: -0.00053993525, z: 0.0004184036}
+      rotation: {x: 0.00000003682836, y: 0.000000020494594, z: 0.1590705, w: 0.98726726}
+      scale: {x: 1.0000013, y: 0.99999976, z: 1.0000008}
+    - name: archer_rigging_final:HEAD_BONE__01
+      parentName: archer_rigging_final:HEAD_BONE
+      position: {x: -0.14957248, y: -5.3290704e-17, z: 2.2898349e-18}
+      rotation: {x: -0.9622766, y: 0.27207306, z: 0.000000020494594, w: 0.00000003682836}
+      scale: {x: 0.9999995, y: 0.99999964, z: 0.9999996}
+    - name: archer_rigging_final:HEADGEAR_BONE
+      parentName: archer_rigging_final:HEAD_BONE__01
+      position: {x: -0.24347623, y: 0, z: -8.8470896e-18}
+      rotation: {x: 0.46065626, y: -0.53646606, z: 0.46065626, w: 0.53646606}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_01
+      parentName: archer_rigging_final:HEAD_BONE__01
+      position: {x: -0.12501135, y: -0.18900333, z: 0.013795062}
+      rotation: {x: -0.5021479, y: 0.49784282, z: 0.41620412, w: 0.5716416}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_02
+      parentName: archer_rigging_final:L_EYEBROW_BONE_01
+      position: {x: -0.03974396, y: -0.007402587, z: 0.003449747}
+      rotation: {x: -9.98286e-16, y: -8.0222305e-17, z: -0.0543692, w: 0.9985209}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_03
+      parentName: archer_rigging_final:L_EYEBROW_BONE_02
+      position: {x: -0.037207782, y: -0.009795918, z: 0.020592777}
+      rotation: {x: -0.13417786, y: 0.99095726, z: -6.8894656e-17, w: -5.2462607e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_04
+      parentName: archer_rigging_final:HEAD_BONE__01
+      position: {x: -0.12884378, y: -0.18826118, z: -0.013756726}
+      rotation: {x: -0.475999, y: -0.5229006, z: 0.5888532, w: -0.39147407}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_05
+      parentName: archer_rigging_final:L_EYEBROW_BONE_04
+      position: {x: 0.040165376, y: -0.002579085, z: -0.0039019722}
+      rotation: {x: 0, y: -0, z: -0.0543692, w: 0.9985209}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:L_EYEBROW_BONE_06
+      parentName: archer_rigging_final:L_EYEBROW_BONE_05
+      position: {x: 0.03751428, y: 0.014984439, z: -0.02075963}
+      rotation: {x: -0.13417786, y: 0.99095726, z: -6.8894656e-17, w: -5.2462607e-17}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:HAED_BONE_03
+      parentName: archer_rigging_final:HEAD_BONE__01
+      position: {x: -0.01070189, y: -0.06997389, z: -8.881784e-18}
+      rotation: {x: -0.000000009907442, y: 0.00000009663417, z: 0.95867604, w: 0.2845002}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1}
+    - name: archer_rigging_final:JAW_BONE
+      parentName: archer_rigging_final:HAED_BONE_03
+      position: {x: -0.054912966, y: -2.1316282e-16, z: -2.6922908e-16}
+      rotation: {x: -1.1657342e-15, y: 1.8639604e-15, z: -0.5484343, w: 0.8361936}
+      scale: {x: 1, y: 1, z: 1}
+    - name: archer_rigging_final:JAW_END_BONE
+      parentName: archer_rigging_final:JAW_BONE
+      position: {x: -0.1492631, y: -7.105427e-17, z: 8.8470896e-18}
+      rotation: {x: 0.044781327, y: -0.7056874, z: 0.044781327, w: 0.70568734}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: archer_rigging_final:R_SHOULDER_BONE
+      parentName: archer_rigging_final:CHEST_BONE_01
+      position: {x: -0.0347346, y: -0.042154677, z: 0.08431925}
+      rotation: {x: 0.5716892, y: 0.40505323, z: 0.5553951, w: -0.44792813}
+      scale: {x: 1.000001, y: 1.0000006, z: 1.0000011}
+    - name: archer_rigging_final:R_ELBOW_BONE
+      parentName: archer_rigging_final:R_SHOULDER_BONE
+      position: {x: 0.097800806, y: 0.00000029523713, z: -0.0061884997}
+      rotation: {x: -0.11166859, y: -0.020488828, z: -0.012549505, w: 0.99345505}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000005}
+    - name: archer_rigging_final:R_WRIST_BONE
+      parentName: archer_rigging_final:R_ELBOW_BONE
+      position: {x: 0.07706315, y: -0.00018988758, z: -0.0024823456}
+      rotation: {x: -0.47538877, y: -0.8697682, z: -0.06346179, w: 0.11610929}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: archer_rigging_final:R_PALM_BONE
+      parentName: archer_rigging_final:R_WRIST_BONE
+      position: {x: -0.024282, y: 0.049482003, z: -0.0040016}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1.0000004}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_04
+      parentName: archer_rigging_final:R_PALM_BONE
+      position: {x: -0.010433111, y: 0.0130804535, z: -0.016809238}
+      rotation: {x: -0.56836236, y: -0.820446, z: 0.029740715, w: -0.054296214}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000005}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_05
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_04
+      position: {x: 0.029787568, y: -0.00033329442, z: -0.0010681545}
+      rotation: {x: 0.00000006332993, y: 0.00000004097819, z: 0.09883855, w: 0.9951035}
+      scale: {x: 0.9999992, y: 1.0000005, z: 1}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_06
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_05
+      position: {x: 0.026912868, y: -0.003437001, z: -0.00057673774}
+      rotation: {x: 0.6048666, y: 0.7963269, z: -0.00000006256795, w: 0.000000050098215}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000017}
+    - name: archer_rigging_final:L_LITTLE_FINGER_BONE_02
+      parentName: archer_rigging_final:R_PALM_BONE
+      position: {x: -0.01235411, y: 0.013511454, z: 0.013382561}
+      rotation: {x: -0.5650117, y: -0.82453126, z: -0.025128197, w: 0.016690968}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000008}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_07
+      parentName: archer_rigging_final:L_LITTLE_FINGER_BONE_02
+      position: {x: 0.026284654, y: -0.0019856498, z: -0.00090026116}
+      rotation: {x: -0.0019651125, y: -0.0048308177, z: 0.0668153, w: 0.9977517}
+      scale: {x: 0.99999976, y: 1.000001, z: 1}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_08
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_07
+      position: {x: 0.025088593, y: -0.003276353, z: -0.0014296217}
+      rotation: {x: 0.6048666, y: 0.7963269, z: -0.00000010843484, w: -0.000000026795666}
+      scale: {x: 1.0000008, y: 1.0000001, z: 1.0000019}
+    - name: archer_rigging_final:R_THUMB_01
+      parentName: archer_rigging_final:R_PALM_BONE
+      position: {x: 0.015739888, y: -0.025734546, z: -0.04529614}
+      rotation: {x: -0.52411854, y: -0.73503107, z: -0.24790752, w: -0.35152662}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000005}
+    - name: archer_rigging_final:R_THUMB_02
+      parentName: archer_rigging_final:R_THUMB_01
+      position: {x: 0.033710103, y: -0.0011820523, z: -0.0049552205}
+      rotation: {x: -0.0030666285, y: -0.00037752083, z: 0.07857219, w: 0.9969036}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000006}
+    - name: archer_rigging_final:R_THUMB_03
+      parentName: archer_rigging_final:R_THUMB_02
+      position: {x: 0.022590604, y: -0.0024823209, z: -0.0034211597}
+      rotation: {x: 0.60486656, y: 0.7963268, z: -0.0000000709666, w: 0.00000011329437}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000005}
+    - name: archer_rigging_final:L_SHOULDER_BONE
+      parentName: archer_rigging_final:CHEST_BONE_01
+      position: {x: -0.028089348, y: -0.013507909, z: -0.081147484}
+      rotation: {x: -0.47856528, y: 0.58548915, z: -0.42252532, w: -0.49964994}
+      scale: {x: 1.0000015, y: 1.0000005, z: 1.0000017}
+    - name: archer_rigging_final:L_ELBOW_BONE
+      parentName: archer_rigging_final:L_SHOULDER_BONE
+      position: {x: -0.09780074, y: 0, z: 0.0061884844}
+      rotation: {x: -0.11175145, y: -0.02421474, z: -0.012064515, w: 0.9933679}
+      scale: {x: 0.99999976, y: 0.9999999, z: 1.0000001}
+    - name: archer_rigging_final:L_WRIST_BONE
+      parentName: archer_rigging_final:L_ELBOW_BONE
+      position: {x: -0.07706318, y: 0.00018932478, z: 0.002482216}
+      rotation: {x: -0.4753889, y: -0.86976814, z: -0.06346177, w: 0.11610936}
+      scale: {x: 1, y: 0.9999995, z: 0.9999992}
+    - name: archer_rigging_final:L_PALM_BONE
+      parentName: archer_rigging_final:L_WRIST_BONE
+      position: {x: 0.024281986, y: -0.04948088, z: 0.004001977}
+      rotation: {x: -0.00000001117587, y: 0.000000052154057, z: 0.000000029802319,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_01
+      parentName: archer_rigging_final:L_PALM_BONE
+      position: {x: 0.010433177, y: -0.013080632, z: 0.016809557}
+      rotation: {x: 0.5683625, y: 0.82044595, z: -0.029740654, w: 0.054296378}
+      scale: {x: 1.0000008, y: 1.0000014, z: 1.0000014}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_02
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_01
+      position: {x: -0.029787762, y: 0.0003334033, z: 0.0010681751}
+      rotation: {x: 0.00000012665986, y: 0.00000007078051, z: 0.09883858, w: 0.9951035}
+      scale: {x: 1.0000002, y: 0.9999996, z: 0.9999996}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_03
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_02
+      position: {x: -0.026912553, y: 0.0034372488, z: 0.00057671004}
+      rotation: {x: -0.6048666, y: -0.7963268, z: 0.00000003598862, w: 0.0000000365346}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000007}
+    - name: archer_rigging_final:L_LITTLE_FINGER_BONE_01
+      parentName: archer_rigging_final:L_PALM_BONE
+      position: {x: 0.012354187, y: -0.013511683, z: -0.013382233}
+      rotation: {x: 0.5650145, y: 0.8245295, z: 0.025126204, w: -0.01668554}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000008}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_02 1
+      parentName: archer_rigging_final:L_LITTLE_FINGER_BONE_01
+      position: {x: -0.02628434, y: 0.0019863534, z: 0.0009003065}
+      rotation: {x: -0.0019659477, y: -0.0048311544, z: 0.06679871, w: 0.99775285}
+      scale: {x: 1.0000013, y: 1.0000005, z: 1.0000006}
+    - name: archer_rigging_final:L_INDEX_FINGER_BONE_03 1
+      parentName: archer_rigging_final:L_INDEX_FINGER_BONE_02 1
+      position: {x: -0.025088936, y: 0.0032762121, z: 0.0014295833}
+      rotation: {x: -0.6048665, y: -0.7963269, z: -0.000000003087542, w: -0.000000055113723}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000005}
+    - name: archer_rigging_final:L_THUMB_01
+      parentName: archer_rigging_final:L_PALM_BONE
+      position: {x: -0.015739739, y: 0.025734143, z: 0.04529649}
+      rotation: {x: 0.5241153, y: 0.73503447, z: 0.24790952, w: 0.35152292}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.9999999}
+    - name: archer_rigging_final:L_THUMB_02
+      parentName: archer_rigging_final:L_THUMB_01
+      position: {x: -0.03370928, y: 0.0011820516, z: 0.0049547353}
+      rotation: {x: -0.0030665542, y: -0.0003820061, z: 0.07857715, w: 0.99690324}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000004}
+    - name: archer_rigging_final:L_THUMB_03
+      parentName: archer_rigging_final:L_THUMB_02
+      position: {x: -0.022590935, y: 0.0024825367, z: 0.0034215837}
+      rotation: {x: -0.6048666, y: -0.7963269, z: -0.000000062333996, w: 2.714415e-10}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1.0000002}
+    - name: archer_rigging_final:L_UPPER_LEG_BONE
+      parentName: archer_rigging_final:ROOT_BONE
+      position: {x: 0.00091932405, y: 0.008683458, z: 0.036882497}
+      rotation: {x: -0.01555609, y: 0.6091033, z: 0.779931, w: 0.1430346}
+      scale: {x: 1.0000011, y: 1.0000006, z: 1.0000008}
+    - name: archer_rigging_final:L_MIDDLE_LEG_BONE
+      parentName: archer_rigging_final:L_UPPER_LEG_BONE
+      position: {x: -0.074812755, y: -8.881784e-18, z: 1.7763568e-17}
+      rotation: {x: 0.65518993, y: 0.06773498, z: 0.026651582, w: 0.75194937}
+      scale: {x: 0.9999995, y: 0.99999994, z: 1.0000002}
+    - name: archer_rigging_final:L_FOOT_BONE
+      parentName: archer_rigging_final:L_MIDDLE_LEG_BONE
+      position: {x: -0.07364193, y: -1.7763568e-17, z: 3.1086245e-17}
+      rotation: {x: 0.017571656, y: 0.027049568, z: -0.6582243, w: 0.7521306}
+      scale: {x: 1.0000011, y: 0.9999999, z: 1.0000007}
+    - name: archer_rigging_final:L_BALL_BONE
+      parentName: archer_rigging_final:L_FOOT_BONE
+      position: {x: -0.050180707, y: -2.8865798e-17, z: -2.6645352e-17}
+      rotation: {x: -0.000000022351736, y: -0.00000007450579, z: 0.30439964, w: 0.95254445}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000012}
+    - name: archer_rigging_final:L_TOE_BONE
+      parentName: archer_rigging_final:L_BALL_BONE
+      position: {x: -0.032967847, y: 2.220446e-18, z: 8.881784e-18}
+      rotation: {x: -0.15783794, y: -0.6892657, z: -0.15783781, w: 0.6892658}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: archer_rigging_final:R_UPPER_LEG_BONE1
+      parentName: archer_rigging_final:ROOT_BONE
+      position: {x: 0.0009189326, y: 0.008683503, z: -0.036947142}
+      rotation: {x: 0.60764235, y: 0.01347187, z: -0.14728996, w: 0.7803172}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: archer_rigging_final:R_MIDDLE_LEG_BONE1
+      parentName: archer_rigging_final:R_UPPER_LEG_BONE1
+      position: {x: 0.07481316, y: 0.00000005265749, z: 0.00000001713551}
+      rotation: {x: -0.65487796, y: -0.07574913, z: -0.02162611, w: -0.75161767}
+      scale: {x: 1.0000001, y: 1.0000007, z: 0.9999999}
+    - name: archer_rigging_final:R_FOOT_BONE1
+      parentName: archer_rigging_final:R_MIDDLE_LEG_BONE1
+      position: {x: 0.073641926, y: -0.00000003562044, z: -0.00000007674526}
+      rotation: {x: -0.1758368, y: -0.25525737, z: 0.62231123, w: -0.71878636}
+      scale: {x: 0.9999997, y: 0.9999999, z: 1}
+    - name: archer_rigging_final:R_BALL_BONE1
+      parentName: archer_rigging_final:R_FOOT_BONE1
+      position: {x: 0.05018071, y: 0.000000062306086, z: -8.881784e-18}
+      rotation: {x: -0.0000000745058, y: 0.000000104308114, z: 0.30439946, w: 0.95254445}
+      scale: {x: 1.0000002, y: 1.0000011, z: 1.0000004}
+    - name: archer_rigging_final:R_TOE_BONE1
+      parentName: archer_rigging_final:R_BALL_BONE1
+      position: {x: 0.0329678, y: -0.000000036914308, z: 3.5527136e-17}
+      rotation: {x: -0.15783772, y: -0.6892657, z: -0.15783784, w: 0.6892657}
+      scale: {x: 0.9999997, y: 0.9999994, z: 0.99999964}
+    - name: archer_rigging_final:CLOTH_BONE_01
+      parentName: archer_rigging_final:ROOT_BONE
+      position: {x: -0.025501885, y: -0.031376295, z: 0.00025640312}
+      rotation: {x: -0.056895494, y: -0.9983802, z: -0, w: 0}
+      scale: {x: 1, y: 0.99999994, z: 1.0000002}
+    - name: archer_rigging_final:CLOTH_BONE_02
+      parentName: archer_rigging_final:CLOTH_BONE_01
+      position: {x: -0.032117274, y: -0.010072124, z: -6.661338e-18}
+      rotation: {x: -0.000000033145284, y: -0.00000005781248, z: -0.00072938576, w: 0.9999998}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: archer_rigging_final:CLOTH_BONE_03
+      parentName: archer_rigging_final:CLOTH_BONE_02
+      position: {x: -0.03253019, y: 3.126388e-15, z: -6.661338e-18}
+      rotation: {x: 0.000000034103127, y: 0.000000057252674, z: 0.017376846, w: 0.999849}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: archer_rigging_final:CLOTH_BONE_04
+      parentName: archer_rigging_final:CLOTH_BONE_03
+      position: {x: -0.032500714, y: -5.4053983e-17, z: -1.8018349e-19}
+      rotation: {x: 0.49782148, y: 0.5021691, z: -0.49782148, w: 0.5021691}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
