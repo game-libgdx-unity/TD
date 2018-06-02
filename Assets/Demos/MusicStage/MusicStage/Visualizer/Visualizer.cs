@@ -8,11 +8,21 @@ public class Visualizer : MonoBehaviour
 	public Reaktion.ReaktorLink spectrum2;
 	public Reaktion.ReaktorLink spectrum3;
 	public Reaktion.ReaktorLink spectrum4;
-	public Vector4 spectrum;
+	public Reaktion.ReaktorLink spectrum5;
+	
+	public Vector4 vector4;
+	public Vector4 vector3;
+	public float[] spectrums = new float[5];
 
 	void Update()
 	{
-		spectrum = new Vector4(spectrum1.Output, spectrum2.Output, spectrum3.Output, spectrum4.Output);
+		vector4 = new Vector4(spectrum1.Output, spectrum2.Output, spectrum3.Output, spectrum4.Output);
+		vector3 = new Vector3(spectrum1.Output, spectrum2.Output, spectrum3.Output);
+		spectrums[0] = spectrum1.Output;
+		spectrums[1] = spectrum2.Output;
+		spectrums[2] = spectrum3.Output;
+		spectrums[3] = spectrum4.Output;
+		spectrums[4] = spectrum5.Output;
 	}
 
 	void OnWillRenderObject()
@@ -20,9 +30,9 @@ public class Visualizer : MonoBehaviour
 		if (GetComponent<Renderer>() == null || GetComponent<Renderer>().sharedMaterial == null) { return; }
 		Material mat = GetComponent<Renderer>().material;
 
-		if (Vector4.Dot(spectrum, spectrum) <= 1.0f)
+		if (Vector4.Dot(vector4, vector4) <= 1.0f)
 		{
-			mat.SetVector("_Spectra", spectrum);
+			mat.SetVector("_Spectra", vector4);
 		}
 
 		Camera cam = Camera.current;
