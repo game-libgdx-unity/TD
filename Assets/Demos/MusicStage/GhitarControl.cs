@@ -17,6 +17,7 @@ public class GhitarControl : MonoBehaviour
     private int barCount;
     private int score;
     private float totalDeltaTime;
+    bool skipFrame = false;
 
     // Use this for initialization
     void Start()
@@ -25,23 +26,24 @@ public class GhitarControl : MonoBehaviour
 
         Debug.Assert(barCount == visualizer.spectrums.Length, "This should be equal!!!");
     }
+    
 
     // Update is called once per frame
     void Update()
     {
-        bool skipFrame = false;
         totalDeltaTime += Time.deltaTime;
 
         if (totalDeltaTime > delayCheck)
         {
             totalDeltaTime = 0f;
 
-            if (visualizer.vector3.magnitude < .1f)
+            if (visualizer.vector3.magnitude < .05f)
             {
                 skipFrame = true;
             }
             else
             {
+                skipFrame = false;
                 var spectrums = visualizer.spectrums;
                 var spectrum = visualizer.vector4;
                 var correctIndex = spectrums.ToList().IndexOf(spectrums.Max());
@@ -70,20 +72,21 @@ public class GhitarControl : MonoBehaviour
             {
                 if (currentCorrectKey == keycode)
                 {
-                    Debug.Log("Correct key");
-                    totalDeltaTime = delayCheck; //next key
+                    skipFrame = true;
                     score++;
                     txtScore.color = Color.green;
+                    txtScore.text = score.ToString();
+                    Debug.Log("Correct key");
                     break;
                 }
                 else
                 {
                     score--;
                     txtScore.color = Color.red;
+                    txtScore.text = score.ToString();
                     Debug.Log("Wrong key");
                 }
                 
-                txtScore.text = score.ToString();
 
             }
         }
