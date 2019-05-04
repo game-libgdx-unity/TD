@@ -74,7 +74,6 @@ public class PunStartup : MonoBehaviour
 
     public static void LoadPunDemoHub()
     {
-        EditorSceneManager.OpenScene(demoBasePath + demoPaths[0]);
         Selection.activeObject = AssetDatabase.LoadMainAssetAtPath(demoBasePath + demoPaths[0]);
     }
 
@@ -124,6 +123,5 @@ public class PunStartup : MonoBehaviour
         }
 
         EditorBuildSettings.scenes = sceneAr.ToArray();
-        EditorSceneManager.OpenScene(sceneAr[0].path);
     }
 }

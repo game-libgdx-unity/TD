@@ -56,10 +56,6 @@ public class BuildScript
 			return "/test.exe";
 		case BuildTarget.StandaloneOSXIntel:
 		case BuildTarget.StandaloneOSXIntel64:
-		case BuildTarget.StandaloneOSXUniversal:
-			return "/test.app";
-		case BuildTarget.WebPlayer:
-		case BuildTarget.WebPlayerStreamed:
 			return "";
 			// Add more build targets for your own.
 		default:

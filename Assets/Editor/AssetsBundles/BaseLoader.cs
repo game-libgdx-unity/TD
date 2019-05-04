@@ -50,8 +50,6 @@ public class BaseLoader : MonoBehaviour
     {
         if (Application.isEditor)
             return "file://" + System.Environment.CurrentDirectory.Replace("\\", "/"); // Use the build output folder directly.
-        else if (Application.isWebPlayer)
-            return System.IO.Path.GetDirectoryName(Application.absoluteURL).Replace("\\", "/") + "/StreamingAssets";
         else if (Application.isMobilePlatform || Application.isConsolePlatform)
             return Application.streamingAssetsPath;
         else // For standalone player.
@@ -67,14 +65,11 @@ public class BaseLoader : MonoBehaviour
                 return "Android";
             case BuildTarget.iOS:
                 return "iOS";
-            case BuildTarget.WebPlayer:
-                return "WebPlayer";
             case BuildTarget.StandaloneWindows:
             case BuildTarget.StandaloneWindows64:
                 return "Windows";
             case BuildTarget.StandaloneOSXIntel:
             case BuildTarget.StandaloneOSXIntel64:
-            case BuildTarget.StandaloneOSXUniversal:
                 return "OSX";
             // Add more build targets for your own.
             // If you add more targets, don't forget to add the same platforms to GetPlatformFolderForAssetBundles(RuntimePlatform) function.
@@ -92,9 +87,6 @@ public class BaseLoader : MonoBehaviour
                 return "Android";
             case RuntimePlatform.IPhonePlayer:
                 return "iOS";
-            case RuntimePlatform.WindowsWebPlayer:
-            case RuntimePlatform.OSXWebPlayer:
-                return "WebPlayer";
             case RuntimePlatform.WindowsPlayer:
                 return "Windows";
             case RuntimePlatform.OSXPlayer:

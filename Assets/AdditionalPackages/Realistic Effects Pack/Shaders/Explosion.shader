@@ -1,4 +1,6 @@
-﻿Shader "Effects/Explosion" {
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Effects/Explosion" {
 	Properties {
 	_TintColorR ("Tint Color R (Core)", Color) = (0.5,0.5,0.5,1)
 	_TintColorG ("Tint Color G (Glow)", Color) = (0.5,0.5,0.5,1)
@@ -53,7 +55,7 @@ Category {Tags { "Queue"="Transparent" "IgnoreProjector"="True" "RenderType"="Tr
 			v2f vert (appdata_t v)
 			{
 				v2f o;
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				#ifdef SOFTPARTICLES_ON
 				o.projPos = ComputeScreenPos (o.vertex);
 				COMPUTE_EYEDEPTH(o.projPos.z);
@@ -119,7 +121,7 @@ Category {Tags { "Queue"="Transparent" "IgnoreProjector"="True" "RenderType"="Tr
 			v2f vert (appdata_t v)
 			{
 				v2f o;
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				#ifdef SOFTPARTICLES_ON
 				o.projPos = ComputeScreenPos (o.vertex);
 				COMPUTE_EYEDEPTH(o.projPos.z);

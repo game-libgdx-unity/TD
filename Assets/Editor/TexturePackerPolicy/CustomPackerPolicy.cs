@@ -19,6 +19,7 @@ public class CustomPackerPolicy : UnityEditor.Sprites.IPackerPolicy
     private const uint kDefaultPaddingPower = 3; // Good for base and two mip levels.
 
     public virtual int GetVersion() { return 1; }
+    public bool AllowSequentialPacking { get; }
     protected virtual string TagPrefix { get { return "[TIGHT]"; } }
     protected virtual bool AllowTightWhenTagged { get { return true; } }
     protected virtual bool AllowRotationFlipping { get { return false; } }
@@ -32,8 +33,6 @@ public class CustomPackerPolicy : UnityEditor.Sprites.IPackerPolicy
         if (fmt >= TextureFormat.PVRTC_RGB2 && fmt <= TextureFormat.PVRTC_RGBA4)
             return true;
         if (fmt == TextureFormat.ETC_RGB4)
-            return true;
-        if (fmt >= TextureFormat.ATC_RGB4 && fmt <= TextureFormat.ATC_RGBA8)
             return true;
         if (fmt >= TextureFormat.EAC_R && fmt <= TextureFormat.EAC_RG_SIGNED)
             return true;

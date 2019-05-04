@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 Shader "Effects/Matrix/GlowAdditiveSimple" {
 	Properties {
 	_TintColor ("Tint Color", Color) = (0.5,0.5,0.5,0.5)
@@ -53,7 +55,7 @@ Category {
 			v2f vert (appdata_t v)
 			{
 				v2f o;
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				//o.texcoord = TRANSFORM_TEX(v.texcoord,_MainTex);
 				float4 trasformed = mul(_DecalMatr,  v.vertex);
                 o.pTex = trasformed.xyz+float3(0.5, 0.5, 0);

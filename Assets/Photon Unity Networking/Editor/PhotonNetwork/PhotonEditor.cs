@@ -480,7 +480,7 @@ public class PhotonEditor : EditorWindow
             GUILayout.Space(15);
         }
 #if !(UNITY_5_0 || UNITY_5)
-        else if (!InternalEditorUtility.HasAdvancedLicenseOnBuildTarget(BuildTarget.Android) || !InternalEditorUtility.HasAdvancedLicenseOnBuildTarget(BuildTarget.iPhone))
+        else if (!InternalEditorUtility.HasAdvancedLicenseOnBuildTarget(BuildTarget.Android) || !InternalEditorUtility.HasAdvancedLicenseOnBuildTarget(BuildTarget.iOS))
         {
             GUILayout.Label(CurrentLang.MobileExportNoteLabel);
             GUILayout.Space(15);
@@ -658,11 +658,6 @@ public class PhotonEditor : EditorWindow
                 bool isOldRpc = false;
                 #pragma warning disable 618
                 // we let the Editor check for outdated RPC attributes in code. that should not cause a compile warning
-                if (method.IsDefined(typeof (RPC), false))
-                {
-                    countOldRpcs++;
-                    isOldRpc = true;
-                }
                 #pragma warning restore 618
 
                 if (isOldRpc || method.IsDefined(typeof(PunRPC), false))

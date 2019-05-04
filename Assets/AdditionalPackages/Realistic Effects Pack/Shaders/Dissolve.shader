@@ -1,4 +1,6 @@
-﻿Shader "Effects/Dissolve" {
+﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
+Shader "Effects/Dissolve" {
 	Properties {
         _Color ("Color", Color) = (1,1,1,1)
 		_CoreColor ("Core Color", Color) = (1,1,1,1)
@@ -49,7 +51,7 @@ Category {
 			v2f vert (appdata_t v)
 			{
 				v2f o;
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				o.uv_Core = TRANSFORM_TEX(v.texcoord, _Core);
 				o.uv_Mask = TRANSFORM_TEX(v.texcoord, _Mask);
 				return o;

@@ -181,13 +181,6 @@ public class PhotonViewHandler : EditorWindow
     {
         string[] scenes = System.IO.Directory.GetFiles(".", "*.unity", SearchOption.AllDirectories);
 
-        foreach (string scene in scenes)
-        {
-            EditorSceneManager.OpenScene(scene);
-            PhotonViewHandler.HierarchyChange();//NOTE: most likely on load also triggers a hierarchy change
-            EditorSceneManager.SaveOpenScenes();
-        }
-
         Debug.Log("Corrected scene views where needed.");
     }
 }

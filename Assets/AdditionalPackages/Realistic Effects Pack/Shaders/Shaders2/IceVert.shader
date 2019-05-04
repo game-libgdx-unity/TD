@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 // Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 
 Shader "Effects/Ice/IceVert" {
@@ -100,7 +102,7 @@ Category {
 				half4 tex = tex2Dlod (_HeightMap, coord);
 				v.vertex.xyz += v.normal * _Height * tex.r;
 				
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				#if UNITY_UV_STARTS_AT_TOP
 				half scale = -1.0;
 				#else

@@ -85,8 +85,6 @@ namespace RobotDemo
 
         IEnumerator ScanAndAttackTarget()
         {
-
-
             while (true)
             {
                 while (!target || !target.IsAlive)
@@ -105,22 +103,19 @@ namespace RobotDemo
                         break;
                     }
 
-                    Quaternion lastRotation = turretT.localRotation;
                     if (target)
                     {
                         Quaternion wantedRot = Quaternion.LookRotation(target.targetT.position - turretT.position);
                         yield return turretT.DORotateQuaternion(wantedRot, .5f).OnUpdate(() =>
-                        {
-                            turretT.localEulerAngles = new Vector3(turretT.localEulerAngles.x, 0, 0);
-                        }).OnStart(() => IsAttacking = true).WaitForCompletion();
+                            {
+                                turretT.localEulerAngles = new Vector3(turretT.localEulerAngles.x, 0, 0);
+                            })
+                            .OnStart(() => IsAttacking = true)
+                            .WaitForCompletion();
                     }
                 }
 
-                //if (moveTweener != null)
-                //    moveTweener.Kill(true);
-
-                //turretT.DOLookAt(target.targetT.position - targetT.position, .5f,AxisConstraint.X );
-                if (target)
+               if (target)
                 {
                     IsAttacking = false;
                     yield return new WaitForSeconds(Random.Range(.6f, 3f));
@@ -149,13 +144,7 @@ namespace RobotDemo
                         {
                             break;
                         }
-                    }
-
-                    //Quaternion resetRotatation = lastRotation;
-                    //yield return turretT.DORotateQuaternion(resetRotatation, .5f).OnUpdate(() =>
-                    //{
-                    //    turretT.localEulerAngles = new Vector3(turretT.localEulerAngles.x, 0, 0);
-                    //}).WaitForCompletion();
+                    }        
 
                     IsAttacking = false;
                 }

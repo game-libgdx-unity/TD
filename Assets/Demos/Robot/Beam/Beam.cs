@@ -20,7 +20,7 @@ public class Beam
 		LightBall,
 	}
 
-	const int BEAM_MAX = 256;
+	const int BEAM_MAX = 4096		;
 
 	private bool[] alive_table_;
 	private int spawn_index_;

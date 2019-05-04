@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 public static class TriangleExplosion
 {
-    public static IEnumerator SplitMesh(this GameObject obj, bool destroy = true, int max_triangle = 1000)
+    public static IEnumerator SplitMesh(this GameObject obj, bool destroy = true, int max_triangle = 100)
     {
         if (obj.GetComponent<MeshFilter>() == null || obj.GetComponent<SkinnedMeshRenderer>() == null)
         {

@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 // Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 
 Shader "Effects/Mobile/Water" {
@@ -81,7 +83,7 @@ Category {
 				o.uv_BumpMap = TRANSFORM_TEX(v.texcoord, _BumpMap);
 				o.uv_Height = TRANSFORM_TEX(v.texcoord, _Height);
 				
-				float4 oPos = mul(UNITY_MATRIX_MVP, v.vertex);
+				float4 oPos = UnityObjectToClipPos(v.vertex);
 				
 				float4 coord = float4(v.texcoord.xy, 0 ,0);
 				coord.x += _OffsetXHeightMap;
@@ -89,7 +91,7 @@ Category {
 				float4 tex = tex2Dlod (_HeightMap, coord);
 				v.vertex.xyz += v.normal * _Height * tex.r;
 
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				
 				#if UNITY_UV_STARTS_AT_TOP
 					float scale = -1.0;

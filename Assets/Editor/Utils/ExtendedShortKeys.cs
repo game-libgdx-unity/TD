@@ -9,8 +9,6 @@ public class UnityExtendedShortKeys : ScriptableObject
     [MenuItem("HotKey/Run _F5")]
    public  static void PlayGame()
     {
-        if (!EditorApplication.isPlaying)
-            EditorSceneManager.SaveScene(SceneManager.GetActiveScene(), "", false);
         EditorApplication.ExecuteMenuItem("Edit/Play");
     }
 

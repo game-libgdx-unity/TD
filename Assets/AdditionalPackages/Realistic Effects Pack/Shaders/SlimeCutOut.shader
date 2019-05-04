@@ -1,3 +1,5 @@
+// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
+
 // Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 
 Shader "Effects/SlimeCutOut" {
@@ -76,7 +78,7 @@ Category {
 				o.uv_BumpMap = TRANSFORM_TEX(v.texcoord, _BumpMap);
 				o.uv_CutOut = TRANSFORM_TEX(v.texcoord, _CutOut);
 
-				o.vertex = mul(UNITY_MATRIX_MVP, v.vertex);
+				o.vertex = UnityObjectToClipPos(v.vertex);
 				#if UNITY_UV_STARTS_AT_TOP
 				half scale = -1.0;
 				#else
